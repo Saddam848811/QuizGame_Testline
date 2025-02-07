@@ -23,7 +23,7 @@ This is a quiz application built using **React** for the frontend and **Node.js*
 
 
 ### project Screenshots
-![App Screenshot](assets/screenshots/)
+![App Screenshot](assets/screenshots/Screenshot 2025-02-07 185746.png)
 
 ## project Link
 https://github.com/Saddam848811/QuizGame_Testline
