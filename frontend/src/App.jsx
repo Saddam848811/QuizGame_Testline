@@ -20,7 +20,7 @@ const QuizApp = () => {
   useEffect(() => {
     // Fetch quiz data from the backend
     axios
-      .post("http://localhost:3000/", { quizId: 12345 })  // Adjust request body as needed
+      .post("https://quizgame-testline-backend.onrender.com", { quizId: 12345 })  // Adjust request body as needed
       .then((response) => {
         console.log("Response:", response.data);
         setQuiz(response.data.data); // Store the quiz data in the state
